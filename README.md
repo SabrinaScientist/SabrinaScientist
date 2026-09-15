@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sabrina Lisboa
 
 🎓 Data Science and Artificial Intelligence @ SENAI CIMATEC — Brazil  
-📊 Exploring Data Science, Machine Learning, and Data Engineering
+📊 Exploring Data Science, Data Engineering and Machine Learning
 
 ---
 ## 🛠️ Tech Stack
